@@ -136,7 +136,7 @@ export const Features: React.FC = () => {
                     >
                       {icon}
                     </Box>
-                    <CardTitle size="small">{highlight.title}</CardTitle>
+                    <CardTitle size="medium">{highlight.title}</CardTitle>
                     <CardDescription
                       dangerouslySetInnerHTML={{
                         __html: highlight.description,
