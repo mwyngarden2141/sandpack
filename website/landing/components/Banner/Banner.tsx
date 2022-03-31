@@ -22,6 +22,7 @@ export const Banner: React.FC = () => {
 
   const { scrollY } = useViewportScroll();
 
+
   const leftRange = useTransform(
     scrollY,
     [sectionTop - sectionHeight / 2, sectionTop + sectionHeight / 2],
