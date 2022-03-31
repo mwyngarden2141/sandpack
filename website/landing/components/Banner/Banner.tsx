@@ -46,7 +46,10 @@ export const Banner: React.FC = () => {
     onResize();
     window.addEventListener("resize", onResize);
     return (): void => window.removeEventListener("resize", onResize);
-  }, [section]);
+  }, 
+  
+    // test comment have to save
+
 
   return (
     <SectionWrapper ref={section}>
@@ -56,7 +59,7 @@ export const Banner: React.FC = () => {
           display: "flex",
           flexDirection: "column",
           gap: "50px",
-          overflow: "visible",
+          overflow: "visible",    
 
           "@bp3": {
             "--gap": "100px",

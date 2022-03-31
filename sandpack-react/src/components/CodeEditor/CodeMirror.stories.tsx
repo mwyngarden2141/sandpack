@@ -9,6 +9,10 @@ export default {
   component: CodeEditor,
 };
 
+const testVar = true;
+
+
+
 export const HTML: React.FC = () => (
   <SandpackProvider>
     <CodeEditor
