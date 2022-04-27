@@ -54,7 +54,7 @@ export const HeroMobile: React.FC = () => {
               fontWeight: "$semiBold",
               fontSize: "36px",
               lineHeight: "100%",
-              textAlign: "center",
+              textAlign: "right",
               letterSpacing: "-0.05em",
 
               "@bp1": {
