@@ -67,7 +67,7 @@ export const HeroMobile: React.FC = () => {
           <Text
             css={{
               color: "$darkTextSecondary",
-              fontSize: "16px",
+              fontSize: "36px",
               fontWeight: "$normal",
               lineHeight: "19px",
               letterSpacing: "-0.0125em",
