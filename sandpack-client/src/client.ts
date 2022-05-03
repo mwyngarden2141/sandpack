@@ -20,9 +20,11 @@ import {
   addPackageJSONIfNeeded,
   extractErrorDetails,
 } from "./utils";
-"
+
 import { SandpackLogLevel } from ".";
 
+
+[
 export interface ClientOptions {
   /**
    * Paths to external resources
@@ -237,10 +239,7 @@ export class SandpackClient {
     sandboxInfo = this.sandboxInfo,
     isInitializationCompile?: boolean
   ): void {
-    this.sandboxInfo = {
-      ...this.sandboxInfo,
-      ...sandboxInfo,
-    };
+    this.sandboxInfo = sandboxInfo;
 
     const files = this.getFiles();
 
