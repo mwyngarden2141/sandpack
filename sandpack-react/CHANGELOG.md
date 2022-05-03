@@ -3,6 +3,148 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.19.6](https://github.com/codesandbox/sandpack/compare/v0.19.5...v0.19.6) (2022-05-02)
+
+
+### Bug Fixes
+
+* **readonly:** toggle remounting ([#456](https://github.com/codesandbox/sandpack/issues/456)) ([b4162bc](https://github.com/codesandbox/sandpack/commit/b4162bcd7d284c0b3cb2d3acdfff2e7f9818870d))
+
+
+
+
+
+## [0.19.5](https://github.com/codesandbox/sandpack/compare/v0.19.4...v0.19.5) (2022-05-02)
+
+
+### Bug Fixes
+
+* **updatefile:** update all clients ([#455](https://github.com/codesandbox/sandpack/issues/455)) ([fc2e13c](https://github.com/codesandbox/sandpack/commit/fc2e13c00e2339c1ef18d18f4cb895248787b0d5))
+
+
+
+
+
+## [0.19.4](https://github.com/codesandbox/sandpack/compare/v0.19.3...v0.19.4) (2022-04-29)
+
+
+### Bug Fixes
+
+* **updatefile:** support multiple files ([#453](https://github.com/codesandbox/sandpack/issues/453)) ([a05faac](https://github.com/codesandbox/sandpack/commit/a05faaca453b60f1ffab7b9d6fd7b6bb8050f8b2))
+
+
+
+
+
+## [0.19.3](https://github.com/codesandbox/sandpack/compare/v0.19.2...v0.19.3) (2022-04-27)
+
+
+### Bug Fixes
+
+* **codeeditor:** ensure selections are inside of the document length ([#452](https://github.com/codesandbox/sandpack/issues/452)) ([7391c6e](https://github.com/codesandbox/sandpack/commit/7391c6e5fc896eb9b937323f918562beef694061))
+
+
+
+
+
+## [0.19.2](https://github.com/codesandbox/sandpack/compare/v0.19.1...v0.19.2) (2022-04-26)
+
+
+### Bug Fixes
+
+* **solid template:** deprecate beta version ([#451](https://github.com/codesandbox/sandpack/issues/451)) ([8278c71](https://github.com/codesandbox/sandpack/commit/8278c71e33c9ca8197827f041f4c6da68c33d4f5))
+
+
+
+
+
+## [0.19.1](https://github.com/codesandbox/sandpack/compare/v0.19.0...v0.19.1) (2022-04-26)
+
+**Note:** Version bump only for package @codesandbox/sandpack-react
+
+
+
+
+
+# [0.19.0](https://github.com/codesandbox/sandpack/compare/v0.18.2...v0.19.0) (2022-04-21)
+
+
+### Features
+
+* **template:** add solidjs (beta) ([#447](https://github.com/codesandbox/sandpack/issues/447)) ([7b03882](https://github.com/codesandbox/sandpack/commit/7b038827add0001b460af7574e12e4c664a075d2))
+
+
+
+
+
+## [0.18.2](https://github.com/codesandbox/sandpack/compare/v0.18.1...v0.18.2) (2022-04-19)
+
+
+### Bug Fixes
+
+* **sandpack:** expose `showOpenInCodeSandbox` prop ([#443](https://github.com/codesandbox/sandpack/issues/443)) ([f5b9eda](https://github.com/codesandbox/sandpack/commit/f5b9eda0854f267e1c89b191294f10e65cf48c25))
+
+
+
+
+
+## [0.18.1](https://github.com/codesandbox/sandpack/compare/v0.18.0...v0.18.1) (2022-04-12)
+
+
+### Bug Fixes
+
+* **custom-setup:** add dev-dependencies ([#436](https://github.com/codesandbox/sandpack/issues/436)) ([df2f906](https://github.com/codesandbox/sandpack/commit/df2f906257b763aed07181f053a7ed4781831195))
+
+
+
+
+
+# [0.18.0](https://github.com/codesandbox/sandpack/compare/v0.17.1...v0.18.0) (2022-03-31)
+
+**Note:** Version bump only for package @codesandbox/sandpack-react
+
+
+
+
+
+## [0.17.1](https://github.com/codesandbox/sandpack/compare/v0.17.0...v0.17.1) (2022-03-30)
+
+**Note:** Version bump only for package @codesandbox/sandpack-react
+
+
+
+
+
+# [0.17.0](https://github.com/codesandbox/sandpack/compare/v0.16.1...v0.17.0) (2022-03-30)
+
+
+### Features
+
+* **preview:** consume client ([#425](https://github.com/codesandbox/sandpack/issues/425)) ([ec854c1](https://github.com/codesandbox/sandpack/commit/ec854c12d5b9ccdb862637e03f5f2d37dfa88e82))
+
+
+
+
+
+## [0.16.1](https://github.com/codesandbox/sandpack/compare/v0.16.0...v0.16.1) (2022-03-29)
+
+**Note:** Version bump only for package @codesandbox/sandpack-react
+
+
+
+
+
+# [0.16.0](https://github.com/codesandbox/sandpack/compare/v0.15.2...v0.16.0) (2022-03-27)
+
+
+### Features
+
+* **preview:** additional content in preview container ([#422](https://github.com/codesandbox/sandpack/issues/422)) ([98103a8](https://github.com/codesandbox/sandpack/commit/98103a8b43fd16525ad8106b149c8c1747907be1))
+
+
+
+
+
 ## [0.15.2](https://github.com/codesandbox/sandpack/compare/v0.15.1...v0.15.2) (2022-03-18)
 
 **Note:** Version bump only for package @codesandbox/sandpack-react
