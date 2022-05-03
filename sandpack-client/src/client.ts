@@ -24,7 +24,6 @@ import {
 import { SandpackLogLevel } from ".";
 
 
-[
 export interface ClientOptions {
   /**
    * Paths to external resources
